@@ -1,104 +1,122 @@
-<h1 align="center">Hey 👋, I'm Shreesh Sanyal</h1>
-<h3 align="center">🚀 Full Stack Developer | B.Tech CSE @ VIT-AP | Building Ideas into Code</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent+Architect+%7C+CSE+@+VIT-AP;Code.+Scale.+Ship.+Repeat." alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  🚀 Passionate about transforming ideas into intelligent and scalable software.<br/>
+  🌐 I build robust backend ecosystems, intuitive interfaces, and AI-integrated platforms.
+</p>
+
+````md
+const shreeshSanyal: FullStackDev = {
+  💻 languages: ["JavaScript", "TypeScript", "Java", "Python"],
+  🎨 frontend: ["React", "Redux", "TailwindCSS", "Bootstrap"],
+  ⚙️ backend: ["Node.js", "Express", "Kafka", "RabbitMQ"],
+  🗄️ databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+  🐳 devOps: ["Docker", "Linux", "Git", "GCP"],
+  🚀 interests: ["AI Agents", "Microservices", "Open Source", "System Design"],
+  🛠 portfolio: "https://github.com/SHREESH2004",
+};
+````
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🌱 Currently learning **Advanced Backend Development (Node.js)** & leveling up my **DSA in Java**
-- 🔭 Working on real-world **AI-driven projects** and **modern microservices**
-- ✍️ I write tech blogs on [Hashnode](https://hashnode.com/@shreeesshh)
-- 💬 Ask me about **TypeScript, Node.js, Express.js, React.js, Java, MongoDB, SQL, PostgreSQL**
-- 📫 Reach me at **shreeshsanyal@gmail.com**
-- 👨‍💻 Check out my work on [GitHub](https://github.com/SHREESH2004)
-- 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/shreesh-sanyal/)
 
 ---
 
-## 🌐 Connect with me
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,bootstrap,html,css,nodejs,express,java,mongodb,mysql,postgres,redis,docker,linux,gcp,git,python" />
+</p>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreesh-sanyal/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://hashnode.com/@shreeesshh" target="_blank">
-    <img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <a href="https://github.com/SHREESH2004" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
+  </a>
+  <a href="mailto:shreeshsanyal@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email" />
   </a>
   <a href="https://discord.gg/pDBGqekC" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=discord" height="30" alt="Slack / Discord" />
   </a>
+
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 GitHub Achievements
 
-### 🎨 Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" alt="Kafka" />
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="40" alt="RabbitMQ" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="MS SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-</p>
-
-### 🐳 DevOps & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
-</p>
-
-### 📚 Data Structures & Algorithms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-</p>
-
-### 💻 Other Programming Languages Known
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreesh2004&theme=radical&no-frame=true&row=1&margin-w=15&title=Commit,PullRequest,Repositories,Stars,Followers,Issues" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreesh2004&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=shreesh2004&theme=tokyonight&hide_border=true&mode=weekly" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shreesh2004&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreesh2004&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreesh2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreesh2004&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 📊 Contribution Activity
 
-> **“Code is like humor. When you have to explain it, it’s bad.”**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreesh2004&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 
 ---
 
-✨ _Thanks for visiting my profile! Let’s build something amazing together._ 🚀
+## 💡 Tech Manifesto
+
+> *“Code is design, not just logic. Every system I build is an evolving, living architecture.”*
+> — *Shreesh Sanyal*
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreesh-sanyal/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="28" /></a>
+  <a href="https://github.com/SHREESH2004" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="28" /></a>
+  <a href="mailto:shreeshsanyal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28" /></a>
+  <a href="https://hashnode.com/@shreeesshh" target="_blank"><img src="https://skillicons.dev/icons?i=hashnode" height="28" /></a>
+  <a href="https://discord.gg/pDBGqekC" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="28" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+for+impact...;Learning+by+shipping...;Open+for+collaborations+%F0%9F%94%8C" />
+</p>
+
+---
+
+<p align="center">
+  ✨ _Thanks for visiting! Let’s build something meaningful together._ 🚀
+</p>
+```
+
+---
+
+| Feature                               | Why It Rocks                 | How                                                               |
+| ------------------------------------- | ---------------------------- | ----------------------------------------------------------------- |
+| 🎥 **Demo GIFs for Projects**         | Show your work in motion     | Use tools like [LICEcap](https://www.cockos.com/licecap/) or Loom |
+| ⚙️ **GitHub Actions**                 | Auto-update your stats daily | Setup `README.md` updater workflow                                |
+| 🖼️ **Custom Banner Header**          | Instantly hooks viewers      | Design via Canva/Figma or ask me to generate                      |
+| 🔧 **Tech Stack Filters in Projects** | Help recruiters scan faster  | Markdown tags, badges, or labels                                  |
+
+---

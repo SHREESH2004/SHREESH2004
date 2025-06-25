@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/3425c34a-2641-49e6-9aa7-e7cb9116cea7)
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent+%7C+CSE+@+VIT-AP;Code.+Scale.+Ship.+Repeat." alt="Typing SVG" />
 </h1>

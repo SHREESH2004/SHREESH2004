@@ -136,15 +136,3 @@
 <p align="center">
   ✨ _Thanks for visiting! Let’s build something meaningful together._ 🚀
 </p>
-```
-
----
-
-| Feature                               | Why It Rocks                 | How                                                               |
-| ------------------------------------- | ---------------------------- | ----------------------------------------------------------------- |
-| 🎥 **Demo GIFs for Projects**         | Show your work in motion     | Use tools like [LICEcap](https://www.cockos.com/licecap/) or Loom |
-| ⚙️ **GitHub Actions**                 | Auto-update your stats daily | Setup `README.md` updater workflow                                |
-| 🖼️ **Custom Banner Header**          | Instantly hooks viewers      | Design via Canva/Figma or ask me to generate                      |
-| 🔧 **Tech Stack Filters in Projects** | Help recruiters scan faster  | Markdown tags, badges, or labels                                  |
-
----

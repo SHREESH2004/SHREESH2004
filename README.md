@@ -1,14 +1,24 @@
-![Image](https://github.com/user-attachments/assets/3425c34a-2641-49e6-9aa7-e7cb9116cea7)
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent+%7C+CSE+@+VIT-AP;Code.+Scale.+Ship.+Repeat." alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  🚀 Passionate about transforming ideas into intelligent and scalable software.<br/>
-  🌐 I build robust backend ecosystems, intuitive interfaces, and AI-integrated platforms.
+  <img src="https://github.com/user-attachments/assets/3425c34a-2641-49e6-9aa7-e7cb9116cea7" alt="Shreesh Banner" width="100%" />
 </p>
 
-<h2 align="center">🧠 About Me</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent;Pre-Final+Year+CSE+Core+Student+@+VIT-AP;Code.+Scale.+Ship.+Repeat." alt="Typing SVG" />
+</h1>
+
+
+
+## 🧠 About Me
+
+🚀 Hey there! I’m **Shreesh Sanyal** — an aspiring Full Stack Engineer with a passion for building smart, scalable, and user-first web apps.
+
+💻 I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and love solving complex problems using **Java** for Data Structures & Algorithms.
+
+🧠 I'm fascinated by the future of intelligent systems — with hands-on experience integrating **AI-driven capabilities** using **MCP** and **A2A servers**. I'm especially excited about **Agentic AI** and **Next-Gen RAG (Retrieval-Augmented Generation)** architectures and how they're reshaping the software landscape.
+
+⚙️ Whether it’s building real-world apps or experimenting with bleeding-edge tech, I live by this mantra:  
+**Code. Scale. Ship. Repeat.**
+
 
 <table align="center" style="margin:auto;">
   <tr>

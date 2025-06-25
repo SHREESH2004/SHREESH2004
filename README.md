@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent+Architect+%7C+CSE+@+VIT-AP;Code.+Scale.+Ship.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent+%7C+CSE+@+VIT-AP;Code.+Scale.+Ship.+Repeat." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,20 +8,38 @@
   🌐 I build robust backend ecosystems, intuitive interfaces, and AI-integrated platforms.
 </p>
 
-````md
-const shreeshSanyal: FullStackDev = {
-  💻 languages: ["JavaScript", "TypeScript", "Java", "Python"],
-  🎨 frontend: ["React", "Redux", "TailwindCSS", "Bootstrap"],
-  ⚙️ backend: ["Node.js", "Express", "Kafka", "RabbitMQ"],
-  🗄️ databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-  🐳 devOps: ["Docker", "Linux", "Git", "GCP"],
-  🚀 interests: ["AI Agents", "Microservices", "Open Source", "System Design"],
-  🛠 portfolio: "https://github.com/SHREESH2004",
-};
-````
+<h2 align="center">🧠 About Me</h2>
 
----
-
+<table align="center" style="margin:auto;">
+  <tr>
+    <td>💻 <strong>Languages</strong></td>
+    <td>JavaScript · TypeScript · Java · Python</td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>Frontend</strong></td>
+    <td>React · Redux · TailwindCSS · Bootstrap</td>
+  </tr>
+  <tr>
+    <td>⚙️ <strong>Backend</strong></td>
+    <td>Node.js · Express.js · Kafka · RabbitMQ</td>
+  </tr>
+  <tr>
+    <td>🗄️ <strong>Databases</strong></td>
+    <td>MongoDB · PostgreSQL · MySQL · Redis</td>
+  </tr>
+  <tr>
+    <td>🐳 <strong>DevOps</strong></td>
+    <td>Docker · Linux · Git · Google Cloud</td>
+  </tr>
+  <tr>
+    <td>🚀 <strong>Interests</strong></td>
+    <td>AI Agents · Microservices · Open Source · System Design</td>
+  </tr>
+  <tr>
+    <td>🛠️ <strong>Portfolio</strong></td>
+    <td><a href="https://github.com/SHREESH2004" target="_blank">github.com/SHREESH2004</a></td>
+  </tr>
+</table>
 
 ---
 

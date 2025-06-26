@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3425c34a-2641-49e6-9aa7-e7cb9116cea7" alt="Shreesh Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/bf686940-ced0-45fb-80cf-3d9417240cf0" alt="Shreesh Banner" width="100%" />
 </p>
 
 <h1 align="center">

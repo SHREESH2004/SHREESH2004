@@ -7,7 +7,6 @@
 </h1>
 
 
-
 ## 🧠 About Me
 
 🚀 Hey there! I’m **Shreesh Sanyal** — an aspiring Full Stack Engineer with a passion for building smart, scalable, and user-first web apps.
@@ -51,6 +50,8 @@
   </tr>
 </table>
 
+
+
 ---
 
 ## 💻 Tech Stack
@@ -78,6 +79,7 @@
   </a>
 
 </p>
+
 
 ---
 

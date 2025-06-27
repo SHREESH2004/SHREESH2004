@@ -2,13 +2,13 @@
   <img src="https://github.com/user-attachments/assets/49056a6a-7cd1-4fc5-8bc2-962c24ce5859" alt="Shreesh Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&text=🕹️%20Shreesh%20Sanyal%20-%20Tech%20Loadout&fontColor=00FF00&color=0D1117&height=100" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent+Developer;Pre-Final+Year+CSE+Core+Student+@+VIT-AP;Building+Minds%2C+Machines%2C+and+Momentum." alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-MERN-informational?style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/badge/AI%20Agent-Developer-ec4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Developer-ec4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Btech CSE Core-orange?style=for-the-badge" />
 </p>
 

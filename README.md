@@ -3,8 +3,20 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent;Pre-Final+Year+CSE+Core+Student+@+VIT-AP;Code.+Scale.+Ship.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent+Developer;Pre-Final+Year+CSE+Core+Student+@+VIT-AP;Building+Minds%2C+Machines%2C+and+Momentum." alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-MERN-informational?style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/AI%20Agent-Developer-ec4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Student-VIT--AP-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,bootstrap,html,css,nodejs,express,java,mongodb,mysql,postgres,redis,docker,linux,gcp,git,python" />
+</p>
+
+
 
 
 ## 🧠 About Me
@@ -18,6 +30,19 @@
 ⚙️ Whether it’s building real-world apps or experimenting with bleeding-edge tech, I live by this mantra:  
 **Code. Scale. Ship. Repeat.**
 
+
+
+  <tr>
+    <td>🛠️ <strong>Portfolio</strong></td>
+    <td><a href="https://github.com/SHREESH2004" target="_blank">github.com/SHREESH2004</a></td>
+  </tr>
+</table>
+
+
+
+---
+
+## 💻 Tech Stack
 
 <table align="center" style="margin:auto;">
   <tr>
@@ -44,21 +69,7 @@
     <td>🚀 <strong>Interests</strong></td>
     <td>AI Agents · Microservices · Open Source · System Design</td>
   </tr>
-  <tr>
-    <td>🛠️ <strong>Portfolio</strong></td>
-    <td><a href="https://github.com/SHREESH2004" target="_blank">github.com/SHREESH2004</a></td>
-  </tr>
 </table>
-
-
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,bootstrap,html,css,nodejs,express,java,mongodb,mysql,postgres,redis,docker,linux,gcp,git,python" />
-</p>
 
 ---
 

@@ -22,7 +22,7 @@
 
 ## 🧠 About Me
 
-🚀 Hey there! I’m **Shreesh Sanyal** — an aspiring Full Stack Engineer with a passion for building smart, scalable, and user-first web apps.
+🚀 Hi! I’m **Shreesh Sanyal** — an aspiring Full Stack Engineer with a passion for building smart, scalable, and user-first web apps.
 
 💻 I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and love solving complex problems using **Java** for Data Structures & Algorithms.
 

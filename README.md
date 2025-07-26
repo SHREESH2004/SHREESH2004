@@ -35,7 +35,7 @@
 
   <tr>
     <td>🛠️ <strong>Portfolio</strong></td>
-    <td><a href="https://github.com/SHREESH2004" target="_blank">github.com/SHREESH2004</a></td>
+    <td><a href="https://shreesh-sanyal-developer.onrender.com" target="_blank">shreesh.dev.com</a></td>
   </tr>
 </table>
 

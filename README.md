@@ -1,152 +1,188 @@
+<div align="center">
+  
+# 🚀 Shreesh Sanyal
+### Full Stack Engineer • AI Agent Developer • System Architect
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/49056a6a-7cd1-4fc5-8bc2-962c24ce5859" alt="Shreesh Banner" width="100%" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Tomorrow's+Web+Today;MERN+Stack+%7C+AI+Integration+Expert;Crafting+Scalable+Digital+Solutions;Pre-Final+Year+CSE+%40+VIT-AP" alt="Dynamic Typing" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Shreesh+Sanyal!;Full+Stack+Engineer+%7C+AI+Agent+Developer;Pre-Final+Year+CSE+Core+Student+@+VIT-AP;Building+Minds%2C+Machines%2C+and+Momentum." alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-MERN-informational?style=for-the-badge&color=blueviolet" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Developer-ec4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Btech CSE Core-orange?style=for-the-badge" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://shreesh-sanyal-developer.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreesh-sanyal/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREESH2004)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeshsanyal@gmail.com)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,bootstrap,html,css,nodejs,express,java,mongodb,mysql,postgres,redis,docker,linux,gcp,git,python" />
-</p>
+</div>
 
+---
 
+## 🎯 **About Me**
 
+```typescript
+const shreesh = {
+    pronouns: "he/him",
+    role: "Full Stack Engineer & AI Agent Developer",
+    education: "B.Tech CSE Core @ VIT-AP University",
+    currentFocus: "Building intelligent web applications with AI integration",
+    techStack: ["MERN", "Java", "TypeScript", "Docker", "AI/ML"],
+    interests: ["Agentic AI", "System Design", "Microservices", "Open Source"],
+    lifePhilosophy: "Code with purpose, scale with vision, ship with impact"
+};
+```
 
-## 🧠 About Me
+<div align="center">
 
-🚀 Hi! I’m **Shreesh Sanyal** — an aspiring Full Stack Engineer with a passion for building smart, scalable, and user-first web apps.
+### 🛠️ **Technology Arsenal**
 
-💻 I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and love solving complex problems using **Java** for Data Structures & Algorithms.
+<table>
+<tr>
+<td align="center" width="33%">
 
-🧠 I'm fascinated by the future of intelligent systems — with hands-on experience integrating **AI-driven capabilities** using **MCP** and **A2A servers**. I'm especially excited about **Agentic AI** and **Next-Gen RAG (Retrieval-Augmented Generation)** architectures and how they're reshaping the software landscape.
+**Frontend Mastery**
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,typescript,javascript,html,css,tailwind,bootstrap&theme=dark" />
+<br><br>
+*Building responsive, user-centric interfaces*
 
-⚙️ Whether it’s building real-world apps or experimenting with bleeding-edge tech, I live by this mantra:  
-**Code. Scale. Ship. Repeat.**
+</td>
+<td align="center" width="33%">
 
+**Backend Excellence**
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,kafka,rabbitmq,redis,docker&theme=dark" />
+<br><br>
+*Architecting scalable server solutions*
 
+</td>
+<td align="center" width="33%">
 
-  <tr>
-    <td>🛠️ <strong>Portfolio</strong></td>
-    <td><a href="https://shreesh-sanyal-developer.onrender.com" target="_blank">shreesh.dev.com</a></td>
-  </tr>
+**Database & DevOps**
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,gcp,linux,git,github,docker&theme=dark" />
+<br><br>
+*Optimizing data flow & deployment*
+
+</td>
+</tr>
 </table>
 
-
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 💼 **What I Bring to the Table**
 
-<table align="center" style="margin:auto;">
-  <tr>
-    <td>💻 <strong>Languages</strong></td>
-    <td>JavaScript · TypeScript · Java · Python</td>
-  </tr>
-  <tr>
-    <td>🎨 <strong>Frontend</strong></td>
-    <td>React · Redux · TailwindCSS · Bootstrap</td>
-  </tr>
-  <tr>
-    <td>⚙️ <strong>Backend</strong></td>
-    <td>Node.js · Express.js · Kafka · RabbitMQ</td>
-  </tr>
-  <tr>
-    <td>🗄️ <strong>Databases</strong></td>
-    <td>MongoDB · PostgreSQL · MySQL · Redis</td>
-  </tr>
-  <tr>
-    <td>🐳 <strong>DevOps</strong></td>
-    <td>Docker · Linux · Git · Google Cloud</td>
-  </tr>
-  <tr>
-    <td>🚀 <strong>Interests</strong></td>
-    <td>AI Agents · Microservices · Open Source · System Design</td>
-  </tr>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-web-application-development-with-coding-and-programming-screen-web-color-tal-revivo.png"/>
+<br><b>Full Stack Development</b>
+<br><sub>End-to-end web solutions using MERN stack</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flat-wichaiwi/96/external-ai-artificial-intelligence-flat-wichaiwi-19.png"/>
+<br><b>AI Integration</b>
+<br><sub>Smart applications with MCP & A2A servers</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/external-scalability-web-development-flaticons-flat-flat-icons-3.png"/>
+<br><b>System Architecture</b>
+<br><sub>Scalable microservices & distributed systems</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flat-wichaiwi/96/external-optimization-seo-flat-wichaiwi.png"/>
+<br><b>Performance Optimization</b>
+<br><sub>Lightning-fast, efficient applications</sub>
+</td>
+</tr>
 </table>
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 📊 **GitHub Analytics**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreesh-sanyal/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SHREESH2004" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
-  </a>
-  <a href="mailto:shreeshsanyal@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email" />
-  </a>
-  <a href="https://discord.gg/pDBGqekC" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="30" alt="Slack / Discord" />
-  </a>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreesh2004&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreesh2004&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</div>
 
-</p>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=shreesh2004&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
+</div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreesh2004&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FF6B6B&area=true&hide_border=true"/>
+</div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 **Achievements & Recognition**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreesh2004&theme=radical&no-frame=true&row=1&margin-w=15&title=Commit,PullRequest,Repositories,Stars,Followers,Issues" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreesh2004&theme=tokyonight&hide_border=true&mode=weekly" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shreesh2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreesh2004&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shreesh2004&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
 
 ---
 
-## 📊 Contribution Activity
+## 🎯 **Current Focus Areas**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreesh2004&theme=tokyo-night&area=true&hide_border=true" />
-</p>
+<div align="center">
 
----
+| 🔥 **Hot Technologies** | 📚 **Learning Path** | 🎯 **Goals 2025** |
+|:---:|:---:|:---:|
+| Next-Gen RAG Systems | Advanced System Design | Contributing to Open Source |
+| Agentic AI Development | Microservices Patterns | Building SaaS Products |
+| Real-time Applications | Cloud Architecture | Tech Leadership |
 
-## 💡 Tech Manifesto
-
-> *“Code is design, not just logic. Every system I build is an evolving, living architecture.”*
-> — *Shreesh Sanyal*
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreesh-sanyal/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="28" /></a>
-  <a href="https://github.com/SHREESH2004" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="28" /></a>
-  <a href="mailto:shreeshsanyal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28" /></a>
-  <a href="https://hashnode.com/@shreeesshh" target="_blank"><img src="https://skillicons.dev/icons?i=hashnode" height="28" /></a>
-  <a href="https://discord.gg/pDBGqekC" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="28" /></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+for+impact...;Learning+by+shipping...;Open+for+collaborations+%F0%9F%94%8C" />
-</p>
+## 💭 **Philosophy**
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic.%20Every%20system%20I%20build%20is%20a%20living%2C%20breathing%20digital%20ecosystem.&author=Shreesh%20Sanyal" />
+</div>
 
 ---
 
-<p align="center">
-  ✨ _Thanks for visiting! Let’s build something meaningful together._ 🚀
-</p>
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+Looking for a passionate Full Stack Developer who loves building scalable, AI-powered applications? 
+<br>**Let's turn ideas into digital reality!**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Professional_Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreesh-sanyal/)
+[![GitHub](https://img.shields.io/badge/Code_Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREESH2004)
+[![Email](https://img.shields.io/badge/Direct_Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeshsanyal@gmail.com)
+[![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pDBGqekC)
+[![Portfolio](https://img.shields.io/badge/Live_Projects-Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://shreesh-sanyal-developer.onrender.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 **Fun Stats**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%E2%98%95+Coffee+consumed%3A+%E2%88%9E+cups;%F0%9F%92%BB+Lines+of+code%3A+Still+counting...;%F0%9F%9A%80+Projects+shipped%3A+Gaining+momentum;%F0%9F%A4%96+AI+integrations%3A+Making+apps+smarter" />
+
+<br>
+
+![Visitor Count](https://profile-counter.glitch.me/shreesh2004/count.svg)
+
+<br>
+
+**⭐ Star my repositories if you find them helpful!**
+<br>
+**🔔 Follow for updates on exciting projects**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+</div>

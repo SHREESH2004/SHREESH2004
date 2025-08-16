@@ -48,14 +48,14 @@ const shreeshSanyal = {
   name: "Shreesh Sanyal",
   role: "Senior Full Stack Engineer & AI Solutions Architect",
   education: "B.Tech CSE @ VIT-AP University",
-  location: "India 🇮🇳",
-  experience: "3+ Years Production Applications",
+  location: "India 🇮🇳"
+},
   
   techStack: {
     frontend: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "Firebase", "AWS Lambda", "Java"],
     database: ["MongoDB", "Firebase Firestore", "PostgreSQL", "AWS DynamoDB"],
-    genAI: ["LangChain", "MCP Servers", "OpenAI API", "AWS Bedrock", "RAG Systems"],
+    genAI: ["LangChain", "MCP Servers",  "A2A Servers", RAG Systems"],
     cloud: ["AWS", "Firebase", "Google Cloud", "Docker", "Kubernetes"],
   },
   

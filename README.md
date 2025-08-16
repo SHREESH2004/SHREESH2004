@@ -88,7 +88,7 @@ const shreeshSanyal = {
 </td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60"/>
-<h3>🗄️ Data Engineering</h3>
+<h3>🗄️ Cloud Service</h3>
 <p><strong>MongoDB • Firebase • PostgreSQL</strong></p>
 <p>Optimized data architectures with NoSQL, real-time sync, and high-performance queries</p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgresql,mysql,redis,graphql&theme=dark" />

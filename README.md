@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHREESH%20SANYAL&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer&descAlignY=51&descAlign=50"/>

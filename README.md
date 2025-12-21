@@ -3,6 +3,7 @@
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHREESH%20SANYAL&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer&descAlignY=51&descAlign=50"/>
 
+
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;System+Designer+%E2%9A%A1;API+Architect+%F0%9F%94%A7" alt="Typing SVG" />

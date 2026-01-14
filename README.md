@@ -42,10 +42,9 @@ const shreeshSanyal = {
     "RESTful API Development",
     "Microservices Architecture", 
     "Event-Driven Systems",
-    "Database Design & Optimization"
   ],
   
-  currentlyLearning: ["Kafka", "RabbitMQ", "gRPC", "Advanced System Design"],
+  currentlyLearning: ["RabbitMQ", "System Design","Redis"],
   
   openTo: "Backend Engineering opportunities",
 };
@@ -88,7 +87,6 @@ const shreeshSanyal = {
 
 ### **Currently Learning**
 <p>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
@@ -180,10 +178,10 @@ const shreeshSanyal = {
 
 **Languages:** TypeScript, JavaScript, Python  
 **Backend:** Node.js, Express.js  
-**Databases:** PostgreSQL, MongoDB, Redis, Firebase  
+**Databases:** PostgreSQL, MongoDB, Firebase  
 **Architecture:** REST APIs, WebSockets, SSE, Microservices, Event-Driven  
 **Tools:** Docker, Git, Postman, JWT Authentication  
-**Learning:** Kafka, RabbitMQ, gRPC
+**Learning:** RabbitMQ, System design, Redis
 
 <br>
 

@@ -44,7 +44,7 @@ const shreeshSanyal = {
     "Event-Driven Systems",
   ],
   
-  currentlyLearning: ["RabbitMQ", "System Design","Redis"],
+  currentlyLearning: ["RabbitMQ", "System Design"],
   
   openTo: "Backend Engineering opportunities",
 };

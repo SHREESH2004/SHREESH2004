@@ -177,7 +177,7 @@ app.use(shadowShield({ redisUrl: "redis://localhost:6379", threshold: 0.5 }))
 + 🤖 TweetPilot MCP — MCP server for programmatic tweet automation
 +    Lightweight, integrates with any MCP-compatible client
 +
-+ 🐳 Importent projects containerized with Docker
++ 🐳 All projects containerized with Docker
 + 🔐 JWT authentication across all services
 ```
 
